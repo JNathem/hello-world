@@ -1,5 +1,0 @@
-Test = ["Test1","Test2","Test3"]
-
-Var = Test[0]
-
-Test[0]="Test_neu"
