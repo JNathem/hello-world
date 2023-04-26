@@ -14,3 +14,6 @@ Test[0] = "Test1"
 
 for i in range(0,len(Test)):
     print(Test[i])
+
+print(Test)
+
