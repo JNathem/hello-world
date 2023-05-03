@@ -17,3 +17,10 @@ for i in range(0,len(Test)):
 
 print(Test)
 
+Test.append("Test4")
+
+print(Test)
+
+Test.insert(1,"Test5")
+
+print(Test)
